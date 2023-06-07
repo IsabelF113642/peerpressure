@@ -104,4 +104,8 @@ div.i{
   clear: both;
   display: table;
 }
+iframe {
+	margin-left: 25px;
+	margin-right: 25px;
+}
 
