@@ -38,9 +38,10 @@
    color: black;
 }
 
-li a:active{
-	background-color: #5E17EB;
-}
+ #topNav > ul > li:active {
+   background-color: #5E17EB;
+
+ }
 
 
 
