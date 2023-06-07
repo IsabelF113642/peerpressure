@@ -64,13 +64,15 @@ body {
 }
 h1   {
   color: #5E17EB;
+	font-size: 45px;
 }
 p    {
   color: black;
-	font-size: 20px;
+	font-size: 30px;
 }
 h2	 {
   color: #00BF63;
+	font-size: 40px;
 }
 
 .flex-container {
